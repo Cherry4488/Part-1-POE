@@ -22,6 +22,7 @@ public class Registration {
         System.out.print("Enter Last Name: ");
         app.setLastName(scanner.nextLine());
 
+        //Prompt user to enter their username
         System.out.print("Choose Username (must contain _ and be ≤ 5 chars): ");
         app.setUsername(scanner.nextLine());
 
