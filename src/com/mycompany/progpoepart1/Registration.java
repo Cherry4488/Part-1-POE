@@ -1,3 +1,5 @@
+package com.mycompany.progpoepart1;
+
 import java.util.Scanner;
 import registrationloginchatapp.Login;
 
