@@ -26,6 +26,7 @@ public class Registration {
         System.out.print("Choose Username (must contain _ and be ≤ 5 chars): ");
         app.setUsername(scanner.nextLine());
 
+        //Prompt user to enter their password
         System.out.print("Choose Password (8+ chars, A-Z, 0-9, special char): ");
         app.setPassword(scanner.nextLine());
 
