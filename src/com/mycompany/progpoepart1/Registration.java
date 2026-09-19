@@ -14,6 +14,7 @@ public class Registration {
 
         System.out.println("\n--- REGISTRATION FORM ---");
 
+        //Prompt user to enter their first name
         System.out.print("Enter First Name: ");
         app.setFirstName(scanner.nextLine());
 
